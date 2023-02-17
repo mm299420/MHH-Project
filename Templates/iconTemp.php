@@ -1,0 +1,1 @@
+<img src="IMG/logoMHH.png" alt="MHH Logo" style="width: 32.5em; height: auto; position: relative;">
