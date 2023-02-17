@@ -1,0 +1,62 @@
+.table {
+    margin-top: 5em;
+}
+
+table {
+    left: auto;
+}
+tbody {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    border: black 1px solid;
+    margin: 1.5em 1.5em;
+    padding: 1.5em 1.5em;
+}
+td {
+    border-collapse: collapse;
+    border: black 1px solid;
+    margin: 1.5em 1.5em;
+    padding: 1.5em 1.5em;
+}
+th {
+    border-collapse: collapse;
+    border: black 1px solid;
+    margin: 1.5em 1.5em;
+    padding: 1.5em 1.5em;
+}
+tr {
+    border-collapse: collapse;
+    border: black 1px solid;
+    margin: 1.5em 1.5em;
+    padding: 1.5em 1.5em;
+}
+input.btn {
+    margin-top: 0.5em;
+    background-color: rgba(0, 0, 0, 0);;
+    color: black;
+    border-collapse: separate;
+    border: black 0.15em solid;
+    border-radius: 0.45em;
+}
+.btnForms {
+    position: fixed;
+    right: 0.5em;
+    top: 0.5em;
+    align-items: center;
+    text-align: center;
+}
+.btn {
+    background-color: rgba(0, 0, 0, 0); ;
+    color: black;
+    border-collapse: separate;
+    border: black 0.15em solid;
+    border-radius: 0.45em;
+}
+a {
+    color: black;
+}
+a:visited {
+    color: black;
+}

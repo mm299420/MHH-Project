@@ -1,0 +1,12 @@
+
+W	php:S1808
+"=Move this open curly brace to the beginning of the next line.(¸‰‚ˆûÿÿÿÿ
+W	php:S1808"=Move this open curly brace to the beginning of the next line.(Ê«ö¤úÿÿÿÿ
+hphp:S100
+"ORename function "GetInfos" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¸‰‚ˆûÿÿÿÿ
+mphp:S100"TRename function "get_server_ip" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ú††ýþÿÿÿÿ
+V	php:S1784
+"<Explicitly mention the visibility of this method "GetInfos".(¸‰‚ˆûÿÿÿÿ
+[	php:S1784"AExplicitly mention the visibility of this method "get_server_ip".(Ú††ýþÿÿÿÿ
+S	php:S1784"9Explicitly mention the visibility of this method "getOS".(Ê«ö¤úÿÿÿÿ
+\	php:S1763"GDelete this unreachable code or refactor the code to make it reachable.(‰¶ÿ¡

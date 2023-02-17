@@ -1,0 +1,23 @@
+
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(¡Î–È
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(à¡…•
+W	php:S1808"=Move this open curly brace to the beginning of the next line.( Óùäşÿÿÿÿ
+W	php:S1808"=Move this open curly brace to the beginning of the next line.(åàİöùÿÿÿÿ
+^	php:S1808"=Move this open curly brace to the beginning of the next line.(ÃïÍöúÿÿÿÿ8ª¿°Ù0
+^	php:S1808"=Move this open curly brace to the beginning of the next line.(ù‰ş‘ûÿÿÿÿ8ôòÀ°Ù0
+Y	php:S1808 "=Move this open curly brace to the beginning of the next line.(œñó€8¼Á°Ù0
+rphp:S116"^Rename this field "$NutzerdatenanalyseID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ØÜ‡ş
+kphp:S116"WRename this field "$NutzerWerbeID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üı×™
+iphp:S116"URename this field "$LastSession" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘°æû
+ophp:S116"[Rename this field "$SessionScreenTime" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÛË–ÿ
+kphp:S116"XRename this field "$SessionBrowser" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·Œæ
+lphp:S116"SRename this field "$SessionOS" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¼£µıÿÿÿÿ
+kphp:S116"XRename this field "$SessionAdBlock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿÜ‚
+3php:S113"'Add a new line at the end of this file.
+ophp:S117"[Rename this parameter "$NutzerdatenID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡Î–È
+iphp:S117"URename this parameter "$WerbeID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(à¡…•
+uphp:S117"URename this parameter "$Session" to match the regular expression ^[a-z][a-zA-Z0-9]*$.( Óùäşÿÿÿÿ8Šö½°Ù0
+xphp:S117"XRename this parameter "$ScreenTime" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åàİöùÿÿÿÿ8Šö½°Ù0
+uphp:S117"URename this parameter "$Browser" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÃïÍöúÿÿÿÿ8˜Õ½°Ù0
+pphp:S117"PRename this parameter "$OS" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ù‰ş‘ûÿÿÿÿ8ôÃ½°Ù0
+pphp:S117 "URename this parameter "$Adblock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œñó€8ª¿°Ù0

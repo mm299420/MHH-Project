@@ -1,0 +1,11 @@
+
+Y	php:S1808"=Move this open curly brace to the beginning of the next line.(»Ώ‘8Λ°®Ω0
+^	php:S1808"=Move this open curly brace to the beginning of the next line.(σ¥―δÿÿÿÿÿ8Λ°®Ω0
+^	php:S1808"=Move this open curly brace to the beginning of the next line.(δ©ΨΆώÿÿÿÿ8›Λ°®Ω0
+X	php:S1808"=Move this open curly brace to the beginning of the next line.(Τ²…/8Λ°®Ω0
+p	php:S1808"ORemove all space between the method name "Present" and the opening parenthesis.(δ©ΨΆώÿÿÿÿ8Λ°®Ω0
+nphp:S100"NRename function "Present" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(δ©ΨΆώÿÿÿÿ8 Λ°®Ω0
+tphp:S100"ZRename function "ReadOnlyFormElement" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Τ²…/8ΆΛ°®Ω0
+k	php:S1848$"OEither remove this useless object instantiation of class "ReadOnlyFE" or use it(χ±§α8£Λ°®Ω0
+B	php:S2003#"&Replace "include" with "include_once".(εθΑ8¤Λ°®Ω0
+h	php:S4833#"LReplace "include" with namespace import mechanism through the "use" keyword.(εθΑ8¦Λ°®Ω0

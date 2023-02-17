@@ -1,0 +1,5 @@
+
+^	php:S1808"=Move this open curly brace to the beginning of the next line.(вШ‚Эщяяяя8нК°®Щ0
+ophp:S116"URename this field "$FormElement" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Э•е*8оК°®Щ0
+:php:S113"'Add a new line at the end of this file.8оК°®Щ0
+r	php:S1779"^Replace all non line feed end of line characters in this file "ReadOnlyFormElement.php" by LF.8оК°®Щ0

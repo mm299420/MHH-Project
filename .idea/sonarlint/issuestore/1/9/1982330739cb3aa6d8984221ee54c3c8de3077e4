@@ -1,0 +1,36 @@
+
+P	php:S1808";Add a blank line after this "namespace Cookie" declaration.(ùŠ¢¹
+W	php:S1808
+"=Move this open curly brace to the beginning of the next line.( æÆÂÿÿÿÿÿ
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(üÿêõ
+W	php:S1808"=Move this open curly brace to the beginning of the next line.(‘·¶Èúÿÿÿÿ
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(êñØ
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(ßú¶Ü
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(‡Ñ
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(Šãÿ’
+Q	php:S1808"=Move this open curly brace to the beginning of the next line.(ÿË‹
+W	php:S1808""=Move this open curly brace to the beginning of the next line.(Øã’åûÿÿÿÿ
+W	php:S1808%"=Move this open curly brace to the beginning of the next line.(²ğææıÿÿÿÿ
+X	php:S1784
+">Explicitly mention the visibility of this method "setWerbeID".( æÆÂÿÿÿÿÿ
+V	php:S1784"AExplicitly mention the visibility of this method "setPublicIPv4".(üÿêõ
+_	php:S1784"EExplicitly mention the visibility of this method "setCookieAccepted".(‘·¶Èúÿÿÿÿ
+[	php:S1784"FExplicitly mention the visibility of this method "setLocationCountry".(êñØ
+Z	php:S1784"EExplicitly mention the visibility of this method "setLocationRegion".(ßú¶Ü
+S	php:S1784">Explicitly mention the visibility of this method "getWerbeID".(‡Ñ
+V	php:S1784"AExplicitly mention the visibility of this method "getPublicIPv4".(Šãÿ’
+Y	php:S1784"EExplicitly mention the visibility of this method "getCookieAccepted".(ÿË‹
+`	php:S1784""FExplicitly mention the visibility of this method "getLocationCountry".(Øã’åûÿÿÿÿ
+_	php:S1784%"EExplicitly mention the visibility of this method "getLocationRegion".(²ğææıÿÿÿÿ
+jphp:S116"QRename this field "$WerbeID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Úï»şÿÿÿÿ
+mphp:S116"TRename this field "$PublicIPv4" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Üé¨şÿÿÿÿ
+qphp:S116"XRename this field "$CookieAccepted" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ò¿Íµúÿÿÿÿ
+mphp:S116"YRename this field "$LocationCountry" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¤ÀƒÀ
+lphp:S116	"XRename this field "$LocationRegion" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(›‰ÖŞ
+nphp:S117
+"URename this parameter "$WerbeID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.( æÆÂÿÿÿÿÿ
+lphp:S117"XRename this parameter "$PublicIPv4" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üÿêõ
+uphp:S117"\Rename this parameter "$CookieAccepted" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘·¶Èúÿÿÿÿ
+qphp:S117"]Rename this parameter "$LocationCountry" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(êñØ
+pphp:S117"\Rename this parameter "$LocationRegion" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ßú¶Ü
+o	php:S4144"ZUpdate this method so that its implementation is not identical to "getWerbeID" on line 25.(Šãÿ’
